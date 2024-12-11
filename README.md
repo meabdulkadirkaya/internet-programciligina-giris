@@ -5,16 +5,11 @@ Bu repository, **İnternet Programcılığına Giriş** dersi kapsamında oluşt
 ## İçerik
 
 ### Klasör Yapısı
-- **hafta1**: Giriş, temel HTML yapıları ve etiketler.
-- **hafta2**: HTML ile form elemanları ve temel sayfa yapısı.
-- **hafta3**: JavaScript'e giriş, değişkenler ve temel işlemler.
-- **hafta4**: Fonksiyonlar, döngüler ve DOM manipülasyonu.
-- **hafta5**: Form işleme ve doğrulama.
-- **hafta6**: CSS ile sayfa tasarımı.
-- **hafta7**: Bootstrap kullanımı ve hazır bileşenler.
-- **hafta8**: JSON veri yapıları ve AJAX ile dinamik içerik.
-- **hafta9**: Proje hazırlık süreçleri ve öneriler.
-- **hafta10**: Final projesi ve sunum.
-
-## Amaç
-Bu proje, internet programcılığına yeni başlayanların teorik bilgilerini pratikle pekiştirmelerini sağlamak amacıyla hazırlanmıştır.
+- **hafta1**: Giriş
+- **hafta2**: var_dump, gettype, settype, Sabit Örnekleri ve Çevresel Değişkenler
+- **hafta3**: isset, unset, Doğum Yılı Hesaplama, Basit Hesaplama Makinası, Artırma ve Azaltma Operator ve Form Oluşturma
+- **hafta4**: if-else Yapısı, Ternary Yapısı, Vize/Final ve Proje Hesaplama ve Pozitif & Negatif ve Tek & Çift Kontrolü
+- **hafta5**: Switch Case Yapısı ve Switch Case Hesaplama
+- **hafta6**: Do While, For Döngüsü, Foreach Döngüsü ve While Döngüsü
+- **hafta7**: Faktöriyel, for ile İsim Yazdırma & Karesini Alma ve Switch Case ile 3'e 5'e Bölünme
+- **hafta9**: Dizi Oluşturma ve Çok Boyutlu Diz
