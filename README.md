@@ -13,3 +13,9 @@ Bu repository, **İnternet Programcılığına Giriş** dersi kapsamında oluşt
 - **hafta6**: Do While, For Döngüsü, Foreach Döngüsü ve While Döngüsü
 - **hafta7**: Faktöriyel, for ile İsim Yazdırma & Karesini Alma ve Switch Case ile 3'e 5'e Bölünme
 - **hafta9**: Dizi Oluşturma ve Çok Boyutlu Diz
+
+## İletişim
+Herhangi bir sorunuz veya öneriniz için benimle iletişime geçebilirsiniz:
+
+E-posta: info@abdulkadirkaya.com
+LinkedIn: linkedin.com/in/meabdulkadirkaya
