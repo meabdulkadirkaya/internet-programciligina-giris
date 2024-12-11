@@ -17,5 +17,5 @@ Bu repository, **İnternet Programcılığına Giriş** dersi kapsamında oluşt
 ## İletişim
 Herhangi bir sorunuz veya öneriniz için benimle iletişime geçebilirsiniz:
 
-E-posta: info@abdulkadirkaya.com
-LinkedIn: linkedin.com/in/meabdulkadirkaya
+- E-posta: info@abdulkadirkaya.com
+- LinkedIn: linkedin.com/in/meabdulkadirkaya
