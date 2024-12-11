@@ -15,7 +15,7 @@
     $yasHesapla = $gunumuzTarih - $dogumYili;
     echo "Benim Yaşım: " . $yasHesapla;
 
-    // Basit Hesa Makinesi
+    // Basit Hesaplama Makinesi
     echo "<h3>Basit Hesap Makinesi</h3>"."<br>";
     $sayi1 = 15;
     $sayi2 = 9;
