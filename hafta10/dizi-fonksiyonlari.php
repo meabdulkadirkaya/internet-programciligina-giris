@@ -48,13 +48,13 @@
     $duzenle = implode(" | ", $programlamaDilleri);
     echo $duzenle;*/
 
-    //Dizi Elemanlarından Rastgele Seçim
+    // Dizi Elemanlarından Rastgele Seçim
     echo "<h3>Diziden Rastgele Eleman Seçme</h3>";
     $sehir = array("Amasya", "Tokat", "Çorum", "Samsun", "Yozgat");
     $rastgele = array_rand($sehir);
     echo $sehir[$rastgele];
 
-    //Dizi Elemanlarını Tersine Çevirme
+    // Dizi Elemanlarını Tersine Çevirme
     echo "<h3>Dizi Elemanlarını Tersine Çevirme</h3>";
     $isim = array("Abdulkadir", "İpek", "Aleyna", "Mertkan");
     $tersCevir = array_reverse($isim);
@@ -68,7 +68,7 @@
     print_r($tersCevir);
     echo "</pre>";
 
-    //Dizi Sayıcıları
+    // Dizi Sayıcıları
     echo "<h3>Dizi Sayıcıları</h3>";
     $sayi = array(6,2,4,1,1,3,5,6);
     echo "Eleman sayısı: ".count($sayi)."<br>".
