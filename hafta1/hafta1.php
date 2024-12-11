@@ -1,7 +1,7 @@
 <?php
 
-$ad = "Abdulkadir";
-$soyad = "KAYA";
-echo $ad . " " . $soyad;
+    $ad = "Abdulkadir";
+    $soyad = "KAYA";
+    echo $ad . " " . $soyad;
   
 ?>
