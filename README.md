@@ -13,6 +13,9 @@ Bu repository, **İnternet Programcılığına Giriş** dersi kapsamında oluşt
 - **hafta6**: Do While, For Döngüsü, Foreach Döngüsü ve While Döngüsü
 - **hafta7**: Faktöriyel, for ile İsim Yazdırma & Karesini Alma ve Switch Case ile 3'e 5'e Bölünme
 - **hafta9**: Dizi Oluşturma ve Çok Boyutlu Diz
+- **hafta10** Dizi Fonksiyonları ve Dizilerde Sıralama
+- **hafta11** Veritabanı Bağlantısı, Veritabanına Kayıt Ekleme ve ID Değerini Bulma
+- **hafta12** TC, Ad ve Soyad Veritabanına Kaydetme ve Kütüphane Bilgileri Veritabanına Kaydetme ve Listeleme
 
 ## İletişim
 Herhangi bir sorunuz veya öneriniz için benimle iletişime geçebilirsiniz:
